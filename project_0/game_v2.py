@@ -4,7 +4,7 @@
 
 import numpy as np
 
-def predict_number(number: int=1) -> int:
+def predict_number(number: int = 1) -> int:
     """Угадываем число с помощью поска среднего между интервалами
 
     Args:
@@ -20,6 +20,7 @@ def predict_number(number: int=1) -> int:
 
     while (predict_number != number):
         count += 1
+        
         # В зависимости от условия меняем диапазоны
         if number > predict_number:
             left = predict_number
@@ -28,6 +29,7 @@ def predict_number(number: int=1) -> int:
         
         # Предполагаем, что число находится в середине диапазона
         predict_number = (left+right) // 2
+        
     return count
 
 

@@ -13,7 +13,7 @@
 
 ### Краткая информация о данных
 Данные можно скачать с [гугл диска](https://drive.google.com/drive/folders/1PtvFey5C99wKqUblElKh384pb6NieqgX?usp=sharing)
-Графики из файла расположены в папке [images](https://github.com/AlexexDenimus/sf_ds_projects/tree/master/project_1/images) 
+Графики из файла расположены в папке [images](https://github.com/AlexexDenimus/sf_ds_projects/tree/master/project_1/images)
   
 :arrow_up:[к оглавлению](https://github.com/AlexexDenimus/sf_ds_projects/tree/master/project_1/README.md#Оглавление)
 

@@ -12,8 +12,7 @@
 
 
 ### Краткая информация о данных
-Данные можно скачать с [гугл диска](https://drive.google.com/drive/folders/1PtvFey5C99wKqUblElKh384pb6NieqgX?usp=sharing)
-Графики из файла расположены в папке [images](https://github.com/AlexexDenimus/sf_ds_projects/tree/master/project_2/images)
+Данные находятся по хосту 84.201.134.129. В ходе проекта будут выданы креды для подключения к хосту, где будет лежать база данных.
   
 :arrow_up:[к оглавлению](https://github.com/AlexexDenimus/sf_ds_projects/tree/master/project_2/README.md#Оглавление)
 

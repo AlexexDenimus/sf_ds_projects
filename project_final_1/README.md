@@ -1,4 +1,4 @@
-# Проект 2. Анализ резюме из HeadHunter
+# Проект 1 курса. Определение уязвимых групп населения
 
 ## Оглавление
 [1. Описание проекта](https://github.com/AlexexDenimus/sf_ds_projects/tree/master/project_final_1/README.md#Описание-проекта)  
